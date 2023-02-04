@@ -1,4 +1,4 @@
-# 📄 SIPAAK-v1.0.0
+# 📄 SIPAAK v1.0.0
 Sistem Informasi Pelayanan Administrasi Akademik Kemahasiswaan dibuat pada tahun 2021 untuk mempermudah pelayanan administrasi surat menyurat di Biro Administrasi Akademik Kemahasiswaan Universitas Muhammadiyah Jember. Menggunakan Material Kit berbasis Bootstrap v5.1.3. Sistem informasi ini bersifat dinamis sehingga jika ada perubahan kebijakan dapat ditambahkan melalui dashboard admin. Fitur utama sistem informasi ini adalah layanan yang diajukan mahasiswa memiliki status ajuan sehingga mahasiswa dapat memantau ajuannya secara berkala. Petugas administrasi juga dapat melihat ajuan-ajuan berdasarkan statusnya sehingga dapat diketahui daftar pekerjaan di tiap layanan yang tersedia.
 
 ![image](https://user-images.githubusercontent.com/95736572/208339423-947cb5c5-f05d-4450-8d63-1eccd33d3fee.png)
